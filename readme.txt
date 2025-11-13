@@ -1,4 +1,4 @@
 Welcome to my project!
 
-Author: Thomas
+Author: Thomas Claudiush
 Twitter: @thomasclaudiush
